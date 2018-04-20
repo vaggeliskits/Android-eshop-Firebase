@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiPMSPLIShopping</string>
+    <string name="gotobasket">Ir a la canasta</string>
+
+    <string-array name="language">
+        <item>Griego</item>
+        <item>Ingles</item>
+        <item>Espanol</item>
+    </string-array>
+
+    <string-array name="color">
+    <item>Blanco</item>
+    <item>Azul</item>
+    <item>Gris suave</item>
+    </string-array>
+
+    <string name="addbutton">ha anadido</string>
+    <string name="movebutton">eliminado</string>
+
+
+    <!--User settings-->
+    <string name="textView">Ajustes</string>
+    <string name="editTextfirstname">Nombre</string>
+    <string name="editTextlastname">Apellido</string>
+    <string name="buttonsave">Salvar</string>
+
+    <!--Basket   -->
+    <string name="textViewbasket">Cesta</string>
+    <string name="buttonbuy">Comprar</string>
+    <string name="basketmovebutton">eliminado</string>
+
+    <!--menu_main-->
+    <string name="setting">Ajustes</string>
+    <string name="logout">Salida</string>
+
+</resources>

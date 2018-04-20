@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnipiPMSPLIShopping</string>
+    <string name="gotobasket">Πηγαίνετε στο καλάθι</string>
+
+    <string-array name="language">
+        <item>Ελληνικά</item>
+        <item>Αγγλικά</item>
+        <item>Ισπανικά</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Λευκό</item>
+        <item>Μλέ</item>
+        <item>Γκρί απαλό</item>
+    </string-array>
+
+    <string name="addbutton">Πρόσθεσε</string>
+    <string name="movebutton">Αφαίρεσε</string>
+
+    <!--User settings-->
+    <string name="textView">Ρυθμίσεις</string>
+    <string name="editTextfirstname">Όνομο</string>
+    <string name="editTextlastname">Επώνυμο</string>
+    <string name="buttonsave">Αποθήκευση</string>
+
+    <!--Basket   -->
+    <string name="textViewbasket">Καλάθι</string>
+    <string name="buttonbuy">Αγορά</string>
+    <string name="basketmovebutton">Αφαίρεσε</string>
+
+    <!--menu_main-->
+    <string name="setting">Ρυθμίσεις</string>
+    <string name="logout">Έξοδος</string>
+</resources>

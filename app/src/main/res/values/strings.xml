@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UnipiPMSPLIShopping</string>
+    <!-- Profile-->
+    <string name="gotobasket">go to basket</string>
+    <string name="addbutton">Add</string>
+    <string name="movebutton">Remove</string>
+
+    <string-array name="language">
+        <item>Greek</item>
+        <item>English</item>
+        <item>Spanish</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>White</item>
+        <item>Blue</item>
+        <item>Light Grey</item>
+    </string-array>
+
+
+    <!--User settings-->
+    <string name="textView">User settings</string>
+    <string name="editTextfirstname">Enter your First Name</string>
+    <string name="editTextlastname">Enter your Last Name</string>
+    <string name="buttonsave">Save</string>
+
+    <!--Basket   -->
+    <string name="textViewbasket">Basket</string>
+    <string name="buttonbuy">Buy</string>
+    <string name="basketmovebutton">Remove</string>
+
+    <!--menu_main-->
+    <string name="setting">Settings</string>
+    <string name="logout">Logout</string>
+
+
+</resources>
